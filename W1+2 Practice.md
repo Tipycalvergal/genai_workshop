@@ -1,3 +1,4 @@
+```mermaid
 flowchart TD
     A[💡 Idea] --> B[⚙️ In Progress]
     B --> C[🔍 Review]
